@@ -35,12 +35,12 @@
 
 ## 📌 Projets épinglés
 <p>
-<a href="https://github.com/galimvar/viassist"><img alt="Dépôt viassist" src="https://github-readme-stats.vercel.app/api/pin/?username=galimvar&repo=viassist&theme=tokyonight" /></a>
-<a href="https://github.com/Lucille-R/java-bases"><img alt="Dépôt java-bases" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucille-R&repo=java-bases&theme=tokyonight" /></a>
-<a href="https://github.com/Lucille-R/adaremise"><img alt="Dépôt adaremise" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucille-R&repo=adaremise&theme=tokyonight" /></a>
-<a href="https://github.com/Lucille-R/adapi"><img alt="Dépôt adapi" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucille-R&repo=adapi&theme=tokyonight" /></a>
-<a href="https://github.com/Lucille-R/la-remise"><img alt="Dépôt la-remise" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucille-R&repo=la-remise&theme=tokyonight" /></a>
-<a href="https://github.com/Lucille-R/D-codeur-de-morse"><img alt="Dépôt D-codeur-de-morse" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucille-R&repo=D-codeur-de-morse&theme=tokyonight" /></a>
+<a href="https://github.com/galimvar/viassist"><img alt="Dépôt viassist" src="https://github-readme-stats.vercel.app/api/pin/?username=galimvar&repo=viassist&theme=tokyonight&cache_seconds=21600" /></a>
+<a href="https://github.com/Lucille-R/adaremise"><img alt="Dépôt adaremise" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucille-R&repo=adaremise&theme=tokyonight&cache_seconds=21600" /></a>
+<a href="https://github.com/Lucille-R/java-bases"><img alt="Dépôt java-bases" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucille-R&repo=java-bases&theme=tokyonight&cache_seconds=21600" /></a>
+<a href="https://github.com/Lucille-R/adatabase"><img alt="Dépôt adatabase" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucille-R&repo=adatabase&theme=tokyonight&cache_seconds=21600" /></a>
+<a href="https://github.com/Lucille-R/cluada"><img alt="Dépôt cluada" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucille-R&repo=cluada&theme=tokyonight&cache_seconds=21600" /></a>
+<a href="https://github.com/Lucille-R/D-codeur-de-morse"><img alt="Dépôt D-codeur-de-morse" src="https://github-readme-stats.vercel.app/api/pin/?username=Lucille-R&repo=D-codeur-de-morse&theme=tokyonight&cache_seconds=21600" /></a>
 </p>
 
 ## 📊 Statistiques GitHub
